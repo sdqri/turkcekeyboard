@@ -6,7 +6,7 @@
 		<div id="keyboard" class="panel panel-default">
 			<div id="keypad" class="panel-body">
 				<div class="keyrow">
-					<button id="k4-0" class="key k">s</button>	
+					<button id="k4-0" class="key k">s</button>
 					<button id="k4-1" class="k key">!<br/><b>۱</b></button>
 					<button id="k4-2" class="k key"><br/>۲</button>
 					<button id="k4-3" class="k key">!<br/>۳</button>
@@ -22,7 +22,7 @@
 					<button id="k4-13" class="bskey">backspace<br/></button>
 				</div>
 				<div class="keyrow">
-					<button id="k3-0" class="tkey">tab</button>	
+					<button id="k3-0" class="tkey">tab</button>
 					<button id="k3-1" class="key">ق<br/><b>ق</b></button>
 					<button id="k3-2" class="key">اۆ<br/><b>ۆ</b></button>
 					<button id="k3-3" class="key">ائ<br/><b>ئ</b></button>
@@ -38,7 +38,7 @@
 					<button id="k3-13" class="tkey">|<br/><b>\</b></button>
 				</div>
 				<div class="keyrow">
-					<button id="k2-0" class="clkey">caps lock</button>	
+					<button id="k2-0" class="clkey">caps lock</button>
 					<button id="k2-1"class="key">آ<br/><b>ا</b></button>
 					<button id="k2-2" class="key">ص<br/><b>س</b></button>
 					<button id="k2-3" class="key">د<br/><b>د</b></button>
@@ -53,7 +53,7 @@
 					<button id="k2-12" class="ekey">enter</button>
 				</div>
 				<div class="keyrow">
-					<button id="k1-0" class="lskey">shift</button>	
+					<button id="k1-0" class="lskey">shift</button>
 					<button id="k1-1" class="key">ض<br/><b>ز</b></button>
 					<button id="k1-2" class="key">خ<br/><b>خ</b></button>
 					<button id="k1-3" class="key">ث<br/><b>ج</b></button>
