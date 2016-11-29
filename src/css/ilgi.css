@@ -1,0 +1,23 @@
+label{
+	text-align: right;
+	color: #000000;
+	font-size: 120%;
+}
+.in-group{
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 3%;
+}
+#input-part{
+	margin-bottom: 1%;
+}
+#comment{
+	resize:none;
+}
+#lbl_captcha{
+	font-size: 100%;
+}
+#btn_submit{
+	margin-top: 4%;
+}
+

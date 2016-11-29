@@ -1,0 +1,85 @@
+#textdiv{
+    margin: 0px;
+}
+#textpart{
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+}
+#textarea{
+	text-align: right;
+	resize:none;
+	font-size: 180%;
+}
+#keyboard{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    border-radius: 5px;
+    height: auto;
+    border-radius: 10px;
+}
+.keyrow{
+    width: 86.7%;
+    /*width: 988px;*/
+    margin-left: auto;
+    margin-right: auto;
+}
+.k:hover{
+    background-color: #8b9dc3;
+}
+.key{
+    float: left;
+    width: 6.5%;
+    /*width: 64px;*/
+    height: 64px;
+    /*margin-left: 4px;*/
+    margin-left: 0.4%;
+}
+.tkey{
+    float: left;
+    width: 8%;
+    /*width: 80px;*/
+    height: 64px;
+    /*margin-left: 4px;*/
+    margin-left: 0.4%;
+}
+.bskey , .clkey{
+    float: left;
+    width: 9.5%;
+    /*width: 96px;*/
+    height: 64px;
+    /*margin-left: 4px;*/
+    margin-left: 0.4%;
+}
+.ekey{
+    float: left;
+    width: 13.4%;
+    /*width: 132px;*/
+    height: 64px;
+    /*margin-left: 4px;*/
+    margin-left: 0.4%;
+}
+.lskey{
+    float: left;
+    width: 14.4%;
+    /*width: 144px;*/
+    height: 64px;
+    /*margin-left: 4px;*/
+    margin-left: 0.4%;
+}
+.rskey{
+    float: left;
+    width: 15.4%;
+    /*width: 152px;*/
+    height: 64px;
+    /*margin-left: 4px;*/
+    margin-left: 0.4%;
+}
+.skey{
+    float: left;
+    width: 50.9%;
+    /*width: 504px;*/
+    height: 64px;
+    /*margin-left: 4px;*/
+    margin-left: 0.4%;
+}
