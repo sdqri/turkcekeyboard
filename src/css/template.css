@@ -26,7 +26,7 @@
     font-size: 100%;
 }
 b{
-  font-family: nna-b,tahoma,freesans;  
+  font-family: nna-b,tahoma,freesans;
   font-size: 130%;
 }
 html{
@@ -101,4 +101,27 @@ body{
     text-align: center;
     color: #000000;
     font-size: 120%;
+}
+
+  /* styles for typed.js */
+  .typed-cursor{
+    opacity: 1;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+}
+@keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
 }
